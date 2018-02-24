@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: url('images/bitcoins.jpg') no-repeat top left;
+  background-size: cover;
+}
+
+#account {
+  padding-top: 45px;
+}
+
+#account h1, #account label, #account small {
+  color: #fff;
+}
+
+.card {
+  margin-top: 15px;
+}
